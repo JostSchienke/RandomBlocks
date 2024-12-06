@@ -1,0 +1,13 @@
+name: RandomBlocks
+version: '1.0-SNAPSHOT'
+main: jes_ster.randomBlocks.RandomBlocks
+api-version: '1.21.4'
+authors: [ JES_ster ]
+description: A Block Randomizer Plugin
+commands:
+  startrandom:
+    description: Start the Randomizer.
+  stoprandom:
+    description: Stop the Randomizer.
+  randomdebug:
+    description: Changes the State of the Debug Messages!
