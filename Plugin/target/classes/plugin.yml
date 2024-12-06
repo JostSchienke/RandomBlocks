@@ -1,5 +1,5 @@
 name: RandomBlocks
-version: '1.0-SNAPSHOT'
+version: '1.0.0'
 main: jes_ster.randomBlocks.RandomBlocks
 api-version: '1.21.4'
 authors: [ JES_ster ]
